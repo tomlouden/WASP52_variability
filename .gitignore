@@ -1,0 +1,5 @@
+*.pyc
+*~
+udcf_bin
+udcf_bin/*
+
